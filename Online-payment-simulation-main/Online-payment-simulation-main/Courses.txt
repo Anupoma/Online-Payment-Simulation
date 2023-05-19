@@ -1,0 +1,7 @@
+courseName=1
+courseFee=2.0
+transtionFee=3.0
+Salary=4.0
+libraryFee=5.0
+reTakeFee=6.0
+retake=true
